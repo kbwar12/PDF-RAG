@@ -1,0 +1,1 @@
+"""Configuration module for the PDF Q&A system.""" 
